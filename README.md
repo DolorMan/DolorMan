@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DolorMan
+- 👋 Hi, I’m @DolorMan. (Formerly known as Chathura Dimuthu)
 - 👀 I’m interested in Python, Node, PHP, React and Flutter
 - 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on developing Web Apps
